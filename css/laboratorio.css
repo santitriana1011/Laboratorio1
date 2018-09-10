@@ -1,0 +1,193 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+header{
+	margin: 25px auto;
+}
+.menu{
+	background: #8D9291;
+	overflow: hidden;
+
+}
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+	float: left;
+}
+.menu ul li a{
+	padding: 10px 20px;
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	background: #232424;
+}
+.main{
+	width: 68.5%;
+	float: left;
+	margin-right: 1.5%;
+}
+
+h1{
+	color: red;
+	size: 39px;
+	text-align: center;
+	margin-left: 2.2%;
+	display: block;
+}
+
+h2{
+	color: black;
+	font-size: 59px;
+	text-align: center;
+	display: block;
+}
+
+p1{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+}
+
+h3{
+	color: #458DD0;
+	display: block;
+	font-size: 45px;
+	text-align: center;
+}
+
+p5{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+}
+
+p2{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+
+}
+
+.tituloAzul{
+	color: black;
+	display: block;
+	text-align: center;
+}
+
+.imagen1 img{
+	width: 50%;
+	margin: auto;
+	display: block;
+	padding: 20px;
+}
+
+.p2x{
+	color: gray;
+	text-align: center;
+	display: block;
+
+
+}
+
+h4{
+	color: #458DD0;
+	display: block;
+	font-size: 45px;
+	text-align: center;
+}
+
+p3{
+   text-align: center;	
+   font-size: 25px;
+   display: block;
+
+}
+
+.imagen2{
+	width: 40%;
+	margin: auto;
+	display: block;
+	padding: 20px;
+}
+.listas{
+	margin: 20px;
+}
+
+h5{
+	color: black;
+	display: block;
+	font-size: 45px;
+	text-align: center;
+	display: block;
+}
+
+p6{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+}
+
+h6{
+	color: black;
+	font-size: 59px;
+	text-align: center;
+	display: block;
+}
+
+p7{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+}
+
+p7s{
+	color: #4DA1EF;
+}
+
+p8{
+	text-align: center;
+	font-size: 25px;
+	display: inline-block;
+}
+
+h7{
+	color: black;
+	display: block;
+	font-size: 45px;
+	text-align: center;
+}
+
+p9{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+}
+
+p9s{
+	text-align: center;
+	font-size: 25px;
+	display: block;
+}
+
+.imagen3{
+	width: 40%;
+	margin: auto;
+	display: block;
+	padding: 20px;
+}
+
+p9c{
+	color: blue;
+}
+
+p10{
+	color: white;
+	background-color: black;
+	display: block;
+
+}
